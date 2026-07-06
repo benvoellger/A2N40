@@ -1,0 +1,212 @@
+fedStateKey;fedState;city;carPlate;lat;long;hospitalName;operator
+1;Schleswig-Holstein;Bad Schwartau;OH;53,92244;10,69393;Helios Agnes Karl Krankenhaus Bad Schwartau;privat
+1;Schleswig-Holstein;Heide;HEI;54,19902;9,08083;Westkuestenklinikum Heide;oeffentlich
+1;Schleswig-Holstein;Flensburg;FL;54,79061;9,42656;DIAKO Klinikum;gemeinnuetzig
+1;Schleswig-Holstein;Kiel;KI;54,33072;10,1435;Universitaetsklinikum Schleswig-Holstein Campus Kiel;oeffentlich
+1;Schleswig-Holstein;Luebeck;HL;53,83948;10,70903;Universitaetsklinikum Schleswig-Holstein Campus Luebeck;oeffentlich
+1;Schleswig-Holstein;Neumuenster;NMS;54,06553;9,99257;FEK - Friedrich-Ebert-Krankenhaus Neumuenster;oeffentlich
+2;Hamburg;Hamburg;HH;53,45968;9,95009;Asklepios Klinikum Harburg;privat
+2;Hamburg;Hamburg;HH;53,5071;10,17726;BG Klinikum Hamburg;gemeinnuetzig
+2;Hamburg;Hamburg;HH;53,67478;10,02869;Asklepios Klinik Nord;privat
+2;Hamburg;Hamburg;HH;53,55499;9,90251;Asklepios Klinik Altona;privat
+2;Hamburg;Hamburg;HH;53,56091;10,017;Asklepios Klinik St. Georg;privat
+2;Hamburg;Hamburg;HH;53,47758;9,93667;Helios ENDO-Klinik Hamburg;privat
+2;Hamburg;Hamburg;HH;53,494023;10,20694;Praxis-Klinik Bergedorf;privat
+2;Hamburg;Hamburg;HH;53,59124;9,97326;Universitaetsklinik fuer Neurochirurgie Hamburg-Eppendorf;oeffentlich
+3;Niedersachsen;Bad Pyrmont;HM;51,98516;9,273271;Agaplesion Ev. Bathildiskrankenhaus;gemeinnuetzig
+3;Niedersachsen;Braunschweig;BS;52,23851;10,54703;Staedtisches Klinikum Braunschweig;oeffentlich
+3;Niedersachsen;Goettingen;GÖ;51,55036;9,94261;Universitaetsmedizin Goettingen;oeffentlich
+3;Niedersachsen;Hannover;H;52,38406;9,80552;Medizinische Hochschule Hannover;oeffentlich
+3;Niedersachsen;Hannover;H;52,37062;9,72482;DIAKOVERE Friederikenstift Humbodtstraße;gemeinnuetzig
+3;Niedersachsen;Hannover;H;52,39237;9,71593;KRH Klinikum Nordstadt;oeffentlich
+3;Niedersachsen;Meppen;MEP;52,68905;7,29283;Krankenhaus Ludmillenstift;gemeinnuetzig
+3;Niedersachsen;Oldenburg;OL;53,11191;8,21653;Evangelisches Krankenhaus Oldenburg;gemeinnuetzig
+3;Niedersachsen;Osnabrueck;OS;52,27789;8,00392;Klinikum Osnabrueck;oeffentlich
+3;Niedersachsen;Osnabrueck;OS;52,27142;8,05213;Niels-Stensen-Kliniken Marienhospital Osnabrueck;privat
+3;Niedersachsen;Rotenburg an der Wuemme;ROW;53,10448;9,41157;Agaplesion Diakonieklinikum Rotenburg;gemeinnuetzig
+3;Niedersachsen;Sande;FRI;53,507015;8,009721;Nordwest-Krankenhaus Sanderbusch;oeffentlich
+3;Niedersachsen;Seesen;GS;51,882522;10,216129;Asklepios Kliniken Schildautal;privat
+3;Niedersachsen;Westerstede;WST;53,258404;7,91958;Bundeswehrkrankenhaus Westerstede;oeffentlich
+4;Bremen;Bremen;HB;53,07552;8,83779;Klinikum Bremen-Mitte;oeffentlich
+4;Bremen;Bremen;HB;53,18993;8,59457;Paracelsus-Klinik Bremen;privat
+4;Bremen;Bremerhaven;HB;53,5376;8,63664;Klinikum Bremerhaven-Reinkenheide;oeffentlich
+5;Nordrhein-Westfalen;Aachen;AC;50,777;6,04338;Uniklinik RWTH Aachen;oeffentlich
+5;Nordrhein-Westfalen;Arnsberg;HSK;51,42666;7,99935;Klinikum Hochsauerland;gemeinnuetzig
+5;Nordrhein-Westfalen;Bielefeld;BI;52,014;8,52591;Evangelisches Klinikum Bethel;gemeinnuetzig
+5;Nordrhein-Westfalen;Bielefeld;BI;52,00676;8,52818;Krankenhaus Mara;gemeinnuetzig
+5;Nordrhein-Westfalen;Bochum;BO;51,46414;7,32548;Universitaetsklinikum Knappschaftskrankenhaus Bochum;oeffentlich
+5;Nordrhein-Westfalen;Bochum;BO;51,46908;7,21246;BG Bergmannsheil Bochum;oeffentlich
+5;Nordrhein-Westfalen;Bonn;BN;50,70175;7,10244;Universitaetsklinikum Bonn;oeffentlich
+5;Nordrhein-Westfalen;Bottrop;BOT;51,51492;6,90753;Knappschaftskrankenhaus Bottrop;oeffentlich
+5;Nordrhein-Westfalen;Dortmund;DO;51,53569;7,45419;Klinikum Dortmund Nord;oeffentlich
+5;Nordrhein-Westfalen;Duesseldorf;D;51,19584;6,78889;Universitaetsklinikum Duesseldorf;oeffentlich
+5;Nordrhein-Westfalen;Duisburg;DU;51,3969;6,78398;Sana Wedau Kliniken;privat
+5;Nordrhein-Westfalen;Duisburg;DU;51,51591;6,76594;Evangelisches Krankenhaus Duisburg Nord;gemeinnuetzig
+5;Nordrhein-Westfalen;Essen;E;51,43534;6,98909;Universitätsklinikum Essen;oeffentlich
+5;Nordrhein-Westfalen;Essen;E;51,42671;7,00732;Alfried-Krupp-Krankenhaus Essen;gemeinnuetzig
+5;Nordrhein-Westfalen;Gelsenkirchen;GE;51,57152;7,05938;Knappschaft Kliniken Buer;oeffentlich
+5;Nordrhein-Westfalen;Hamm;HAM;51,70835;7,84174;St.-Barbara-Klinik Hamm-Heesen;gemeinnuetzig
+5;Nordrhein-Westfalen;Herdecke;WIT;51,41074;7,39969;Gemeinschaftskrankenhaus Herdecke;oeffentlich
+5;Nordrhein-Westfalen;Ibbenbueren;ST;52,27869;7,71518;Klinikum Ibbenbueren;gemeinnuetzig
+5;Nordrhein-Westfalen;Koeln;K;50,92451;6,91948;Universitaetsklinikum Koeln;oeffentlich
+5;Nordrhein-Westfalen;Koeln;K;50,93905;7,05232;Krankenhaus Merheim;oeffentlich
+5;Nordrhein-Westfalen;Krefeld;KR;51,32009;6,56475;Helios Klinikum Krefeld;privat
+5;Nordrhein-Westfalen;Luenen;LÜN;51,61905;7,51866;St. Marien Hospital Luenen;gemeinnuetzig
+5;Nordrhein-Westfalen;Minden;MI;52,26187;8,8898;Johannes Wesling Klinikum Minden;oeffentlich
+5;Nordrhein-Westfalen;Muenster;MS;51,96138;7,59607;Universitaetsklinikum Muenster;oeffentlich
+5;Nordrhein-Westfalen;Muenster;MS;51,93248;7,6161;Clemenshospital Münster;gemeinnuetzig
+5;Nordrhein-Westfalen;Paderborn;PB;51,71828;8,75855;St. Vincenz Krankenhaus;gemeinnuetzig
+5;Nordrhein-Westfalen;Recklinghausen;RE;51,621;7,17559;Knappschaft Kliniken Recklinghausen;oeffentlich
+5;Nordrhein-Westfalen;Siegen;SI;50,8509;8,01715;Jung-Stilling-Krankenhaus Siegen;gemeinnuetzig
+5;Nordrhein-Westfalen;Solingen;SG;51,18509;7,06969;Staedtisches Klinikum Solingen ;oeffentlich
+5;Nordrhein-Westfalen;St. Augustin;SU;50,77553;7,18119;Asklepios Klinik St. Augustin;privat
+5;Nordrhein-Westfalen;Wuppertal;W;51,27403;7,17434;Helios Universitaetsklinikum Wuppertal;privat
+5;Nordrhein-Westfalen;Wuppertal;W;51,26817;7,13111;Agaplesion Bethesda Krankenhaus Wuppertal;gemeinnuetzig
+6;Hessen;Darmstadt;DA;49,87481;8,64621;Klinikum Darmstadt - Standort Grafenstraße;oeffentlich
+6;Hessen;Frankfurt am Main;F;50,09507;8,66134;Universitaetsklinikum Frankfurt;oeffentlich
+6;Hessen;Frankfurt am Main;F;50,10949;8,54648;Klinikum Frankfurt Hoechst;oeffentlich
+6;Hessen;Frankfurt am Main;F;50,14527;8,70943;Berufsgenossenschaftliche Unfallklinik Frankfurt am Main;gemeinnuetzig
+6;Hessen;Fulda;FD;50,54677;9,70488;Klinikum Fulda;oeffentlich
+6;Hessen;Giessen;GI;50,57626;8,66312;Universitätsklinikum Giessen;privat
+6;Hessen;Kassel;KS;51,32854;9,50843;Klinikum Kassel;oeffentlich
+6;Hessen;Marburg;MR;50,81495;8,80808;Universitaetsklinikum Marburg;privat
+6;Hessen;Offenbach am Main;OF;50,0945;8,75764;Sana Klinikum Offenbach;privat
+6;Hessen;Wiesbaden;WI;50,06606;8,19142;Helios Dr. Horst-Schmidt-Kliniken Wiesbaden;privat
+7;Rheinland-Pfalz;Bitburg;BIT;49,97187;6,52716;Marienhaus Klinikum Eifel;gemeinnuetzig
+7;Rheinland-Pfalz;Gensingen;BIN;49,89312;7,92845;Bandscheibenklinik Gensingen;privat
+7;Rheinland-Pfalz;Idar-Oberstein;BIR;49,71639;7,32151;Klinikum Idar-Oberstein;oeffentlich
+7;Rheinland-Pfalz;Kaiserslautern;KL;49,44236;7,75747;Westpfalz-Klinikum;oeffentlich
+7;Rheinland-Pfalz;Koblenz;KO;50,36864;7,54253;Bundeswehrkrankenhaus Zentralkrankenhaus Koblenz;oeffentlich
+7;Rheinland-Pfalz;Koblenz;KO;50,34944;7,59326;Gemeinschaftsklinikum Mittelrhein;oeffentlich
+7;Rheinland-Pfalz;Mainz;MZ;49,9942;8,25651;Universitaetsmedizin der Johannes Gutenber-Universitaet Mainz;oeffentlich
+7;Rheinland-Pfalz;Neuwied;NR;50,42995;7,46522;DRK Krankenhaus Neuwied;gemeinnuetzig
+7;Rheinland-Pfalz;Trier;TR;49,76233;6,63957;Krankenhaus der Barmherzigen Brueder Trier;gemeinnuetzig
+8;Baden-Wuerttemberg;Aalen;AA;48,84824;10,08477;Ostalb-Klinikum Aalen;gemeinnuetzig
+8;Baden-Wuerttemberg;Freiburg im Breisgau;FR;48,00566;7,83503;Uniklinik Freiburg - Klinik fuer Neurochirurgie;oeffentlich
+8;Baden-Wuerttemberg;Freiburg im Breisgau;FR;48,00205;7,8529;St. Josefskrankenhaus;gemeinnuetzig
+8;Baden-Wuerttemberg;Heidelberg;HD;49,41851;8,66633;Universitaetsklinikum Heidelberg;oeffentlich
+8;Baden-Wuerttemberg;Karlsruhe;KA;49,01807;8,37395;Staedtisches Klinikum Karlsruhe;oeffentlich
+8;Baden-Wuerttemberg;Ludwigsburg;LB;48,89979;9,20397;Klinikum Ludwigsburg;oeffentlich
+8;Baden-Wuerttemberg;Mannheim;MA;49,49272;8,48648;Universitaetsklinikum Mannheim;oeffentlich
+8;Baden-Wuerttemberg;Ravensburg;RV;47,78836;9,62015;St. Elisabethen-Klinikum;oeffentlich
+8;Baden-Wuerttemberg;Reutlingen;RT;48,48383;9,21802;Klinikum am Steinenberg;oeffentlich
+8;Baden-Wuerttemberg;Schwäbisch Hall;SHA;49,12506;9,7422;Diakonie-Klinikum Schwäbisch Hall;gemeinnuetzig
+8;Baden-Wuerttemberg;Stuttgart;S;48,78347;9,17373;Klinikum Stuttgart - Katharinenhospital;gemeinnuetzig
+8;Baden-Wuerttemberg;Tuebingen;TÜ;48,52974;9,03986;Universitätsklinikum Tuebingen;oeffentlich
+8;Baden-Wuerttemberg;Ulm;UL;48,42225;9,95158;Universitaetsklinikum Ulm;oeffentlich
+8;Baden-Wuerttemberg;Ulm;UL;48,42525;9,94782;Bundeswehrkrankenhaus Ulm;oeffentlich
+8;Baden-Wuerttemberg;Villingen-Schwenningen;VS;48,06507;8,49802;Schwarzwald-Baar Klinikum Villingen-Schwenningen;oeffentlich
+9;Bayern;Altoetting;AÖ;48,23405;12,67665;Klinikum Altoetting;oeffentlich
+9;Bayern;Amberg;AM;49,44725;11,86754;Klinikum St. Marien Amberg;oeffentlich
+9;Bayern;Ansbach;AN;49,32106;10,55939;ANregiomed Klinikum Ansbach;oeffentlich
+9;Bayern;Aschaffenburg;AB;49,97739;9,18758;Klinikum Aschaffenburg-Alzenau;oeffentlich
+9;Bayern;Augsburg;A;48,38552;10,83783;Universitaetsklinikum Augsburg;oeffentlich
+9;Bayern;Bad Neustadt;NES;50,32293;10,2347;Rhoen-Klinikum Campus Bad Neustadt;privat
+9;Bayern;Bamberg;BA;49,86778;10,89125;Klinikum Bamberg;oeffentlich
+9;Bayern;Bayreuth;BT;49,96769;11,58524;Klinikum Hohe Warte;oeffentlich
+9;Bayern;Bayreuth;BT;49,94408;11,5345;Klinikum Bayreuth;oeffentlich
+9;Bayern;Coburg;CO;50,247;10,97238;Sana Klinikum Coburg;privat
+9;Bayern;Dachau;DAH;48,26546;11,42763;Helios Amper-Klinikum Dachau;privat
+9;Bayern;Deggendorf;DEG;48,83938;12,97026;Donauisar Klinikum Deggendorf;gemeinnuetzig
+9;Bayern;Erlangen;ER;49,60008;11,0099;Universitaetsklinikum Erlangen;oeffentlich
+9;Bayern;Fuerth;FÜ;49,48448;10,97495;Klinikum Fuerth;oeffentlich
+9;Bayern;Guenzburg;GZ;48,45728;10,29356;Bezirkskrankenhaus Guenzburg;oeffentlich
+9;Bayern;Hof;HO;50,30297;11,91465;Sana Klinikum Hof;privat
+9;Bayern;Ingolstadt;IN;48,77001;11,3763;Klinikum Ingolstadt;oeffentlich
+9;Bayern;Kempten;KE;47,73196;10,3017;Klinikum Kempten;oeffentlich
+9;Bayern;Kulmbach;KU;50,1182;11,46658;Klinikum Kulmbach;oeffentlich
+9;Bayern;Landshut;LA;48,53816;12,13763;Klinikum Landshut;oeffentlich
+9;Bayern;Memmingen;MM;47,98268;10,16901;Klinikum Memmingen;oeffentlich
+9;Bayern;Muenchen;M;48,1361;11,59979;Klinikum München rechts der Isar der Technischen Universitaet Muenchen;oeffentlich
+9;Bayern;Muenchen;M;48,13702;11,56051;Klinikum der Ludwig-Maximilians-Universitaet Muenchen;oeffentlich
+9;Bayern;Muenchen;M;48,15555;11,62506;Muenchen Klinikum Bogenhausen;oeffentlich
+9;Bayern;Muenchen;M;48,1721;11,57928;Muenchen Klinikum Schwabing;oeffentlich
+9;Bayern;Muenchen;M;48,08587;11,55902;München Klinikum Harlaching;gemeinnuetzig
+9;Bayern;Murnau;GAP;47,67231;11,21719;Berufsgenossenschaftliche Unfallklinik Murnau;gemeinnuetzig
+9;Bayern;Neumarkt in der Oberpfalz;NM;49,28584;11,45204;Klinikum Neumarkt;oeffentlich
+9;Bayern;Nuernberg;N;49,41308;11,14924;Klinikum Nuernberg Sued;oeffentlich
+9;Bayern;Regensburg;R;49,01653;12,06455;Krankenhaus der Barmherzigen Brueder Regensburg;gemeinnuetzig
+9;Bayern;Regensburg;R;48,98768;12,09067;Universitaetsklinikum Regensburg;oeffentlich
+9;Bayern;Rosenheim;RO;47,85971;12,13207;Klinikum Rosenheim;oeffentlich
+9;Bayern;Schweinfurt;SW;50,05184;10,24459;Leopoldina-Krankenhaus;privat
+9;Bayern;Traunstein;TS;47,87383;12,63133;Klinikum Traunstein;oeffentlich
+9;Bayern;Vogtareuth;RO;47,94797;12,18737;Schoen Klinik Vogtareuth;privat
+9;Bayern;Weiden in der Oberpfalz;WEN;49,68082;12,16577;Klinikum Weiden;privat
+9;Bayern;Wuerzburg;WÜ;49,80728;9,95848;Universitaetsklinikum Wuerzburg;oeffentlich
+10;Saarland;Homburg;HG;49,3044;7,34961;Universitaetsklinikum des Saarlands;oeffentlich
+10;Saarland;Saarbruecken;SB;49,22099;6,99508;Klinikum Saarbruecken;gemeinnuetzig
+10;Saarland;Saarlouis;SLS;49,31374;6,74413;Krankenhaus Saarlouis;gemeinnuetzig
+11;Berlin;Berlin;B;52,54624;13,34336;Charite - Universitaetsmedizin Berlin Augustenburger Platz;oeffentlich
+11;Berlin;Berlin;B;52,5262;13,37639;Charite - Universitaetsmedizin Berlin Chariteplatz;oeffentlich
+11;Berlin;Berlin;B;52,44096;13,31618;Charite - Universitaetsmedizin Berlin Hindenburgdamm;oeffentlich
+11;Berlin;Berlin;B;52,43842;13,45809;Vivantes Klinikum Neukoelln;oeffentlich
+11;Berlin;Berlin;B;52,63086;13,51015;Helios Klinikum Berlin-Buch;privat
+11;Berlin;Berlin;B;52,52443;13,43898;Vivantes Klinikum im Fiedrichshain;oeffentlich
+11;Berlin;Berlin;B;52,5199;13,56641;BG Klinikum Unfallkrankenhaus Berlin;oeffentlich
+11;Berlin;Berlin;B;52,48091;13,31722;Sankt Gertrauden-Krankenhaus;gemeinnuetzig
+11;Berlin;Berlin;B;52,53498;13,36985;Bundeswehrkrankenhaus Berlin;oeffentlich
+11;Berlin;Berlin;B;52,49895;13,34459;Klinik Schöneberg;privat
+11;Berlin;Berlin;B;52,52172;13,28949;Schlosspark-Klinik;privat
+11;Berlin;Berlin;B;52,53998;13,60338;Klinik Helle Mitte;privat
+12;Brandenburg;Bad Saarow;BSK;52,28369;14,06158;Helios Klinikum Bad Saarow;privat
+12;Brandenburg;Brandenburg an der Havel;BRB;52,41455;12,54498;Universitaetsklinikum Brandenburg an der Havel;oeffentlich
+12;Brandenburg;Cottbus;CB;51,74347;14,32043;MUL CT;gemeinnuetzig
+12;Brandenburg;Eberswalde;EW;52,82822;13,79188;GLG Werner Forßmann Klinikum Eberswalde;gemeinnuetzig
+12;Brandenburg;Frankfurt (Oder);FF;52,30057;14,48165;Klinikum Frankfurt (Oder);privat
+12;Brandenburg;Neuruppin;NP;52,9065;12,79599;Universitätsklinikum Ruppin-Brandenburg;oeffentlich
+12;Brandenburg;Potsdam;P;52,39993;13,06559;Ernst-von-Bergmann-Klinikum Potsdam;oeffentlich
+13;Mecklenburg-Vorpommern;Greifswald;HGW;54,08897;13,40712;Universitaetsmedizin Greifswald;oeffentlich
+13;Mecklenburg-Vorpommern;Greifswald;HGW;54,0881;13,41262;Short Care Klinik Greifswald;privat
+13;Mecklenburg-Vorpommern;Neubrandenburg;NB;53,54487;13,29429;Dietrich-Bonhoeffer-Klinikum;gemeinnuetzig
+13;Mecklenburg-Vorpommern;Plau am See;LUP;53,47864;12,28427;MediClin Krankenhaus Plau am See;privat
+13;Mecklenburg-Vorpommern;Rostock;HRO;54,08543;12,10104;Universitaetsmedizin Rostock;oeffentlich
+13;Mecklenburg-Vorpommern;Schwerin;SN;53,65224;11,40805;Helios Kliniken Schwerin;privat
+14;Sachsen;Chemnitz;C;50,84497;12,88556;Klinikum Chemnitz;oeffentlich
+14;Sachsen;Dresden;DD;51,05748;13,77912;Universitaetsklinikum Carl Gustav Carus Dresden;oeffentlich
+14;Sachsen;Dresden;DD;51,05959;13,71915;Staedtisches Klinikum Dresden;oeffentlich
+14;Sachsen;Goerlitz;GR;51,16122;14,96953;Staedtisches Klinikum Goerlitz;oeffentlich
+14;Sachsen;Leipzig;L;51,33028;12,38636;Kliniken fuer Neurochirurgie in Sachsen;oeffentlich
+14;Sachsen;Leipzig;L;51,38315;12,37662;Klinikum St. Georg;gemeinnuetzig
+14;Sachsen;Plauen;PL;50,49172;12,15312;Helios Vogtland-Klinikum Plauen;privat
+14;Sachsen;Zwickau;Z;50,72235;12,43481;Heinrich-Braun-Klinikum;oeffentlich
+15;Sachsen-Anhalt;Dessau;DE;51,8178;12,19865;Staedtisches Klinikum Dessau;oeffentlich
+15;Sachsen-Anhalt;Halle (Saale);HAL;51,50146;11,93547;Universitaetsklinikum Halle (Saale);oeffentlich
+15;Sachsen-Anhalt;Halle (Saale);HAL;51,46039;11,98503;BG Klinikum Bergmannstost Halle;oeffentlich
+15;Sachsen-Anhalt;Magdeburg;MD;52,10126;11,61935;Universitaetsklinikum Magdeburg;oeffentlich
+15;Sachsen-Anhalt;Magdeburg;MD;52,1564;11,58274;Klinikum Magdeburg;oeffentlich
+16;Thueringen;Bad Berka;AP;50,88994;11,26617;Zentralklinik Bad Berka;privat
+16;Thueringen;Erfurt;EF;50,99401;11,01105;Helios Klinikum Erfurt;privat
+16;Thueringen;Meiningen;MGN;50,55775;10,39774;Helios Klinikum Meiningen;privat
+16;Thueringen;Muehlhausen;MHL;51,2012;10,46692;Hufeland Klinikum ;oeffentlich
+16;Thueringen;Nordhausen;NDH;51,51575;10,79509;Suedharz Klinikum Nordhausen;gemeinnuetzig
+16;Thueringen;Jena;J;50,88643;11,61933;Universitaetsklinikum Jena;oeffentlich
+17;Proposed;Cloppenburg;CLP;52,84771;8,03992;St.-Josefs-Hospital Cloppenburg;gemeinnuetzig
+17;Proposed;Donauwoerth;DON;48,7239;10,75463;Donau-Ries-Klinik;oeffentlich
+17;Proposed;Heilbronn;HN;49,15228;9,19054;SLK-Kliniken Heilbronn;oeffentlich
+17;Proposed;Hersfeld;HEF;50,87559;9,71482;Klinikum Hersfeld-Rotenburg;oeffentlich
+17;Proposed;Herzberg;EE;51,68437;13,2077;Krankenhaus Herzberg;oeffentlich
+17;Proposed;Offenburg;OG;48,46967;7,96577;Ortenau Klinikum Offenburg-Kehl;gemeinnuetzig
+17;Proposed;Uelzen;UE;52,97149;10,53206;Helios Klinikum Uelzen;privat
+17;Proposed;Stendal;SDL;52,61081;11,85498;Johanniter Krankenhaus Stendal;gemeinnuetzig
+17;Proposed;Nienburg;NI;52,63458;9,22494;Helios Klinikum Mittelweser;privat
+17;Proposed;Quedlinburg;QLB;51,79529;11,16317;Dorothea-Christiane-Erxleben-Klinikum Quedlinburg;oeffentlich
+17;Proposed;Sigmaringen;SIG;48,09659;9,22692;SRH Sigmaringen;gemeinnuetzig
+17;Proposed;Rotenburg an der Fulda;ROF;50,99525;9,72126;Kreiskrankenhaus Rotenburg;gemeinnuetzig
+17;Proposed;Eisenach;EA;50,98872;10,315;St. Georg Klinikum Eisenach;gemeinnuetzig
+17;Proposed;Bad Salzungen;WAK;50,80398;10,21832;Klinikum Bad Salzungen;oeffentlich
+17;Proposed;Perleberg;PR;53,07471;11,87309;Kreiskrankenhaus Prignitz;oeffentlich
+17;Proposed;Bad Mergentheim;MGH;49,48942;9,76395;Caritas Bad Mergentheim;gemeinnuetzig
+17;Proposed;Eberbach;HD;49,46338;8,99019;GRN-Klinik Eberbach;oeffentlich
+17;Proposed;Salzwedel;SWL;52,85679;11,14467;Altmark Klinikum Salzwedel;oeffentlich
+17;Proposed;Gunzenhausen;WUG;49,10818;10,77416;Klinikum Altmuehlfranken;oeffentlich
+17;Proposed;Korbach;KB;51,26739;8,87053;Stadtkrankenhaus Korbach;oeffentlich
+17;Proposed;Freudenstadt;FDS;48,47532;8,40491;Krankenhaus Freudenstadt;oeffentlich
+17;Proposed;Luedenscheid;MK;51,20614;7,66197;Klinikum Luedenscheid;oeffentlich
+17;Proposed;Dueren;DN;50,80871;6,4996;Krankenhaus Dueren;oeffentlich
+17;Proposed;Gelnhausen;MKK;50,20567;9,18198;Krankenhaus Gelnhausen;oeffentlich
+17;Proposed;Goeppingen;GP;48,69119;9,65348;Alb Fils Klinikum Goeppingen;oeffentlich
+17;Proposed;Konstanz;KN;47,67201;9,18874;Klinikum Konstanz;oeffentlich
+17;Proposed;Loerrach;LOE;47,61476;7,65953;Kreiskrankenhaus Loerrach;oeffentlich
+17;Proposed;Pforzheim;PF;48,88906;8,71113;Helios Klinikum Pforzheim;privat
+17;Proposed;Passau;PA;48,56578;13,44488;Klinikum Passau;oeffentlich
+7;Rheinland-Pfalz;Ludwigshafen;LU;49,48652;8,38923;BK Klinik Ludwigshafen;oeffentlich
