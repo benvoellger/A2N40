@@ -26,6 +26,7 @@ hospitals <- read.csv("./gis_data/hospitals.csv", sep = ";", dec = ",")
 #unzip(zipfile = "./gis_data/germany.zip")
 
 #read the unpacked level 3 (districts) shapefile:
+#german_districts <-read_sf("./gis_data/DEU_adm3.shp")
 
 #to calculate travelling time polygons with the help of openrouteservice.org and to save the polygons as shapefiles
 #register with openrouteservice.org, request a token there, and
